@@ -15,6 +15,11 @@ so time taking for implementation
 can perform directly on papar instaed of this.
 
 # Architecture
+
+1. Play occurs on a 3 by 3 grid of 9 empty squares.
+2. Two players alternate marking empty squares, the first player marking "X"s and the second player marking "O"s.
+3. If one player places three of the same marks in a row, that player wins.
+4. If the spaces are all filled and there is no winner, the game ends in a draw
 ![1](https://user-images.githubusercontent.com/99128901/153709336-c22546b4-cfad-4371-96aa-2557b25bd203.jpg)
 
 # Flowchart
