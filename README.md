@@ -23,6 +23,8 @@ can perform directly on papar instaed of this.
 ![1](https://user-images.githubusercontent.com/99128901/153709336-c22546b4-cfad-4371-96aa-2557b25bd203.jpg)
 
 # Flowchart
+![Presentation2](https://user-images.githubusercontent.com/99128901/153712602-87650340-7ee0-425a-8c31-b8af9eb190ce.jpg)
+
 
 # Implementation
 #include <stdio.h>
