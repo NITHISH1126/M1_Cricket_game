@@ -184,7 +184,7 @@ END *******************************************************************/
 
 # Conclusion
 The “Tic Tac Toe Game” is most familiar among all the age groups.Intelligence can be a property of any purpose-driven decision maker.
-This basic idea has been suggested many times. An algorithm of playing Tic Tac Toe has been presented and tested that works in an efficient way.
+This basic idea has been suggested many times. An algorithm of playing Tic Tac Toe has been a great play.
 
 
 # References
