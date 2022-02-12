@@ -13,3 +13,7 @@ We can also have brain wash to our capability of thinking and have fresh mind.
 this tic tac toc in c language is pretty much easy but takes time instead we can have simplicity of codes but takes time
 so time taking for implementation
 can perform directly on papar instaed of this.
+
+# Architecture
+![1](https://user-images.githubusercontent.com/99128901/153709336-c22546b4-cfad-4371-96aa-2557b25bd203.jpg)
+
