@@ -17,3 +17,7 @@ can perform directly on papar instaed of this.
 # Architecture
 ![1](https://user-images.githubusercontent.com/99128901/153709336-c22546b4-cfad-4371-96aa-2557b25bd203.jpg)
 
+# Flowchart
+![4_flowchart](https://user-images.githubusercontent.com/99128901/153709606-0d73625e-ad42-4339-8345-e23071a00742.jpg)
+
+
