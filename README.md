@@ -193,3 +193,9 @@ https://www.onlinegdb.com/online_c_compiler.
 https://www.youtube.com/watch?v=3mrfOqjy9R8
 
 
+# Acknowlegement
+This mini project is for the sake of understating things and implementating.
+I have made repository with learning through youtube which made me feel efficient way.
+As i gone to massive clumsyness, but though things got settle after learning
+
+
