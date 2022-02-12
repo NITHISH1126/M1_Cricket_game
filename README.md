@@ -175,6 +175,21 @@ void board()
 /*******************************************************************
 END *******************************************************************/
 
+
+
 # Output
 ![Screenshot (47)](https://user-images.githubusercontent.com/99128901/153711440-70986d51-442b-406a-801a-54c0ee518ae5.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/99128901/153711859-f526f1fa-ffb1-4041-af94-41e8d61b0130.png)
+
+
+# Conclusion
+The “Tic Tac Toe Game” is most familiar among all the age groups.Intelligence can be a property of any purpose-driven decision maker.
+This basic idea has been suggested many times. An algorithm of playing Tic Tac Toe has been presented and tested that works in an efficient way.
+
+
+# References
+Google Wikipedia.
+https://www.onlinegdb.com/online_c_compiler.
+https://www.youtube.com/watch?v=3mrfOqjy9R8
+
 
