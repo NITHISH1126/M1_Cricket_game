@@ -1,5 +1,11 @@
 ## Cricket Game
+![Image](https://user-images.githubusercontent.com/99128901/156421838-e0b9133b-e1f8-4b88-a4bc-19fb5001d826.jpg)
 
+- Folder Struture
+- Idea
+- Requirements
+- Design
+- Test plan
 
 ### Badges
 [![cppcheck-action](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/cppcheck.yml)
@@ -12,14 +18,6 @@
 ![Blockdiagram](https://user-images.githubusercontent.com/99128901/156421683-e52a7220-ba15-47f8-9cf0-f4030e98175f.png)
 
 
-- Folder Struture
-- Idea
-- Requirements
-- Design
-- Test plan
-
-
- 
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
