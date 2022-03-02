@@ -1,8 +1,15 @@
-
-Kids play this at home when the weather is not conducive for outdoor games.
-
+## Cricket Game
 
 
+### Badges
+[![cppcheck-action](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/cppcheck.yml)
+
+[![cppcheck-action](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/cppcheck.yml)
+
+[![Unit testing](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/unit_test.yml/badge.svg)](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/unit_test.yml)
+
+## Block Diagram
+![Blockdiagram](https://user-images.githubusercontent.com/99128901/156421683-e52a7220-ba15-47f8-9cf0-f4030e98175f.png)
 
 
 - Folder Struture
