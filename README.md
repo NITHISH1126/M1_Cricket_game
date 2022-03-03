@@ -19,6 +19,10 @@ Book Cricket is an indoor game which can be played by kids with a book.This game
 
 [![Unit testing](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/unit_test.yml/badge.svg)](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/unit_test.yml)
 
+![Code Grade](https://api.codiga.io/project/31451/status/svg)
+
+![Code Quality](https://api.codiga.io/project/31451/score/svg)
+
 ## Block Diagram
 ![Blockdiagram](https://user-images.githubusercontent.com/99128901/156421683-e52a7220-ba15-47f8-9cf0-f4030e98175f.png)
 
