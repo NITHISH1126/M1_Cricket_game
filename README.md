@@ -1,4 +1,4 @@
-## Cricket Game
+## Book Cricket Game
 
 ### Introduction
 The project is titled as Book Cricket Game and developed using C language. 
