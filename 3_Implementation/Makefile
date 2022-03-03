@@ -1,6 +1,5 @@
  # Name of the project
 PROJECT_NAME = Book_Cricket
-
 # Output directory
 BUILD = build
 
@@ -59,6 +58,7 @@ coverageCheck:$(BUILD)
 	./$(TEST_OUTPUT)
 
 # Remove all the built files, invoke by `make clean`
+
 clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
 
