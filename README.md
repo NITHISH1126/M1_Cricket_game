@@ -13,7 +13,7 @@ Book Cricket is an indoor game which can be played by kids with a book.This game
 - Test plan
 
 ### Badges
-[![cppcheck-action](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/cppcheck.yml)
+[![C/C++ CI](https://github.com/NITHISH1126/M1_Cricket_game/actions/workflows/c_Build.yml/badge.svg)](https://github.com/NITHISH1126/M1_Cricket_game/actions/workflows/c_Build.yml)
 
 [![cppcheck-action](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/NITHISH1126/M1_Tic-Tac-Toe-game/actions/workflows/cppcheck.yml)
 
